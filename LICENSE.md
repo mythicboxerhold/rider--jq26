@@ -1,4 +1,4 @@
-# 
+# JetBrains Rider for PC | JetBrains Rider for Windows ultimate Script: refactoring-tools & docker-support offers the most advanced JetBrains Rider for PC | JetBrains Rider for
 
 
 
